@@ -9,6 +9,7 @@ Um site que fiz para uma tarefa de informática.
 
 ## Detalhes do projeto
 
-  Apenas um experimento simples que fiz. Usei muito Grid para praticar e entender melhor como ele funciona.
+  Apenas um experimento simples que fiz que deu bastante certo =). Usei muito Grid para praticar e entender melhor como ele funciona.
+  Fiz ele ser bastante responsivo, talvez seja o projeto front-end mais responsívo que já fiz.
 
 
