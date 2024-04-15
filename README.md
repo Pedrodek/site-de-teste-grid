@@ -4,9 +4,8 @@ Um site que fiz para uma tarefa de informática.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Nexus**
-| :label: Tecnologias | html, css, javascript, bootstrap
-| :rocket: URL         | [https://pedrodek.github.io/site-de-teste-grid/forms](https://pedrodek.github.io/site-de-teste-grid/forms)
+| :label: Tecnologias | html & css
+| :sparkles: URL      | [https://pedrodek.github.io/site-de-teste-grid/forms](https://pedrodek.github.io/site-de-teste-grid/forms)
 
 ## Detalhes do projeto
 
