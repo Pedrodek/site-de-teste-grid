@@ -6,7 +6,7 @@ Um site que fiz para uma tarefa de informática.
 | -------------  | --- |
 | :sparkles: Nome        | **Nexus**
 | :label: Tecnologias | html, css, javascript, bootstrap
-| :rocket: URL         | [https://pedrodek.github.io/ProjetoNexus/ProjetoDoAno](https://pedrodek.github.io/ProjetoNexus/ProjetoDoAno)
+| :rocket: URL         | [https://pedrodek.github.io/site-de-teste-grid/forms](https://pedrodek.github.io/site-de-teste-grid/forms)
 
 ## Detalhes do projeto
 
